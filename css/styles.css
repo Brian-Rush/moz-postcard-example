@@ -1,0 +1,19 @@
+@font-face {
+  font-family: veteran_typewriter;
+  src: url(../fonts/veteran_typewriter.ttf);
+}
+
+@font-face {
+  font-family: journal;
+  src: url(../fonts/journal.ttf);
+}
+
+
+
+* {
+  font-family: veteran_typewriter;
+}
+
+h1 {
+  font-family: journal;
+}
